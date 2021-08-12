@@ -13,3 +13,9 @@ video
 {
     width: 800px;
 }
+a
+{
+text-align:center;
+display:block;
+font-size:200%;
+}
